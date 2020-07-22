@@ -1,6 +1,6 @@
 # vanillajavascriptprojects
 
-20 Web Projects with Vanilla JavaSrcipt
+20 Web Projects with Vanilla JavaScript
 
 Build 20 mini frontend projects from scratch with HTML5, CSS & JavaScript (No frameworks or libraries) Brad Traversy
 
